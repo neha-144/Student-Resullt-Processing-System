@@ -1,7 +1,6 @@
 # Student-Resullt-Processing-System
 Members:
 Neha Chaudhary
-Kritika Donde
 Sakshi Gunjal
 Ashmina Dangat
 
